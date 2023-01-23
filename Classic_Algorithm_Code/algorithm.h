@@ -1,5 +1,6 @@
 #pragma once
 
+
 void main_learn_C_plus_plus();
 void main_KMP();
 void main_Manacher();
@@ -10,3 +11,24 @@ void main_Bisection_method();
 void main_Max_min_split();
 void main_Range_Minmax_Query_static();
 void main_2D_difference();
+void main_3D_difference();
+void main_Permutation();
+void main_BFS_DFS_Basic();
+void main_Pruning_odd_even();
+void main_Sequence_one();
+void main_Sudoku();
+void main_Trapping_Rain_Water_2D();
+void main_Trapping_Rain_Water_3D();
+void main_P1032_String_transformation();
+void main_Union_Find();
+void main_Binary_Indexed_Tree();
+void main_Segment_Tree();
+void main_Center_of_Tree();
+void main_Diameter_of_Tree();
+void main_LCA_binary_lifting();
+void main_LCA_Tarjan();
+void main_Multiple_backpack();
+void main_DP_digit();
+void main_DP_on_Subsets();
+void main_DP_on_Trees();
+void main_DP_quadrangle_inequality();
