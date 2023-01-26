@@ -8,7 +8,7 @@ int i = 0;
 int main() {
 
 
-	main_DP_quadrangle_inequality();
+	main_Prim();
 
 
 	return 0;
