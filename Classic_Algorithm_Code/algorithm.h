@@ -38,3 +38,5 @@ void main_SCC_Tarjan();
 void main_SPFA();
 void main_Kruskal();
 void main_Prim();
+void main_MFP_ISAP();
+void main_Hungarian();
