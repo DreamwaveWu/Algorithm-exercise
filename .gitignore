@@ -5,6 +5,7 @@
 
 # Dev-C++
 *.exe
+*.out
 
 
 # User-specific files
